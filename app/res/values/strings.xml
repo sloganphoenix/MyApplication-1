@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="account">帐 号</string>
+    <string name="action_settings">Settings</string>
+    <string name="token">密 码</string>
+    <string name="login">登 录</string>
+    <string name="send_text">发送文本</string>
+    <string name="send_pic">发送图片</string>
+    <string name="logout">注 销</string>
+</resources>
